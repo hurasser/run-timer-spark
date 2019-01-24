@@ -10,7 +10,7 @@ version '0.0.1'
 
 sourceCompatibility = 1.8
 
-mainClassName = 'dk.hurasser.application.RunTimerApp'
+mainClassName = 'dk.hurasser.runtimer.application.RunTimerApp'
 
 repositories {
     mavenCentral()
